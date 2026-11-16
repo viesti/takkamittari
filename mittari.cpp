@@ -90,9 +90,9 @@ void saveUShortPref(const char* key, uint16_t val) {
 
 void updateStatusRow() {
   lcd.setCursor(0, 0);
-  String status = "W:";
+  String status = "WiFi:";
   status += (WiFi.status() == WL_CONNECTED) ? "OK " : "-- ";
-  status += "M:";
+  status += "HA:";
   status += (mqtt.connected()) ? "OK       " : "--       ";
   lcd.print(status.substring(0, 16));
 }
