@@ -26,5 +26,6 @@ The 3D printed case design was done by having a chat with Gemini 4 Argon.
 
 <img width="4080" height="3072" alt="Insides" src="https://github.com/user-attachments/assets/de580c2d-013b-4db3-ba48-a33508c8c601" />
 
-<img width="4080" height="3072" alt="lid" src="https://github.com/user-attachments/assets/7d35b702-d88c-42c5-a82f-e1ee37ab0c5a" />
+<img width="4080" height="3072" alt="Lid" src="https://github.com/user-attachments/assets/7d35b702-d88c-42c5-a82f-e1ee37ab0c5a" />
 
+<img width="3072" height="4080" alt="Installed next to fileplace" src="https://github.com/user-attachments/assets/bfb87e57-3c34-4622-9b43-a48ddafd0384" />
